@@ -22,3 +22,11 @@ Simple grid layout in React Native using the Stylesheet API. It showcases the fl
 [#javascript]() [#react-native]()
 
 <img src="./images/code-1.png" alt="Grid Example" height="150">
+
+## Author
+
+Gedson Marcelino
+- [GitHub](https://github.com/gedsonmarcelino)
+- [LinkedIn](https://www.linkedin.com/in/gedsonmarcelino/)
+
+Feel free to reach out with any questions or suggestions!
