@@ -21,8 +21,10 @@ Simple grid layout in React Native using the Stylesheet API. It showcases the fl
 
 [#javascript]() [#react-native]()
 
+<p float="left">
 <img src="./images/code-1-android.png" alt="Grid Example" height="150">
 <img src="./images/code-1-ios.png" alt="Grid Example" height="150">
+</p>
 
 2. [ScrollView with bottom content]()
 
