@@ -28,7 +28,7 @@ Simple grid layout in React Native using the Stylesheet API. It showcases the fl
 
 2. [ScrollView with bottom content](https://snack.expo.dev/@gedson.marcelino/scroll-bottom-bar)
 
-This example demonstrates how to create a `ScrollView` in React Native with a bottom bar that remains independent of the scrollable content's height. The bottom bar stays fixed at the bottom of the screen while the content in the `ScrollView` can be scrolled vertically. This pattern is useful for creating layouts where you need persistent navigation or action buttons accessible at the bottom of the screen.
+This example demonstrates how to create a `ScrollView` in React Native with a bottom bar that remains independent of the scrollable content's height. This pattern is useful for creating layouts where you need persistent navigation or action buttons accessible at the bottom of the screen.
 
 [#javascript]() [#react-native]()
 
